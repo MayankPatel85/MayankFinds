@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MayankPatel85
 - 👀 I’m interested in App Development.
-- 🌱 I’m currently learning SwiftUI and Flutter.
+- 🌱 Developing apps using SwiftUI and Flutter.
 - 📫 How to reach me @MayankPatel85
 
 <!---
